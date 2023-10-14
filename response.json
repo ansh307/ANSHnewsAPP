@@ -1,0 +1,321 @@
+{
+    "pagination": {
+      "count": 25,
+      "limit": 25,
+      "offset": 0,
+      "total": 10000
+    },
+    "data": [
+      {
+        "author": "Andrew Feinberg",
+        "category": "general",
+        "country": "gb",
+        "description": "Mr Menendez is also accused of taking bribes in the form of cash, gold bars, and a Mercedes-Benz convertible used by his wife",
+        "image": "https://static.independent.co.uk/2023/10/06/23/APTOPIX_Menendez_Bribery_61761.jpg?width=1200&auto=webp",
+        "language": "en",
+        "published_at": "2023-10-12T18:10:57Z",
+        "source": "Independent",
+        "title": "Menendez charged with acting as agent for Egyptian government",
+        "url": "https://www.the-independent.com/news/world/americas/us-politics/menendez-senator-indictment-charges-bribes-b2428758.html"
+      },
+      {
+        "author": "Laura Hampson and Meredith Clark",
+        "category": "entertainment",
+        "country": "gb",
+        "description": "Following an ‘entanglement’ and infamous Oscars ‘slap’, the Hollywood couple has revealed they’ve been separated for seven years",
+        "image": "https://static.independent.co.uk/2022/03/28/04/GettyImages-1388087355%20%281%29.jpg?width=1200&auto=webp",
+        "language": "en",
+        "published_at": "2023-10-12T18:10:45Z",
+        "source": "The Independent - Life and Style",
+        "title": "A timeline of Will Smith and Jada Pinkett Smith’s relationship amid separation",
+        "url": "https://www.independent.co.uk/life-style/love-sex/will-smith-jada-pinkett-relationship-timeline-divorce-b2427925.html"
+      },
+      {
+        "author": "Laura Hampson and Meredith Clark",
+        "category": "entertainment",
+        "country": "gb",
+        "description": "Following an ‘entanglement’ and infamous Oscars ‘slap’, the Hollywood couple has revealed they’ve been separated for seven years",
+        "image": "https://static.independent.co.uk/2022/03/28/04/GettyImages-1388087355%20%281%29.jpg?width=1200&auto=webp",
+        "language": "en",
+        "published_at": "2023-10-12T18:10:17Z",
+        "source": "The Independent - Life and Style",
+        "title": "From entanglements to divorce rumours: Will Smith and Jada Pinkett Smith’s relationship timeline",
+        "url": "https://www.independent.co.uk/life-style/love-sex/will-smith-jada-pinkett-relationship-separation-b2428834.html"
+      },
+      {
+        "author": "Amber Raiken",
+        "category": "general",
+        "country": "gb",
+        "description": "A viral conspiracy theory claims Taylor Swift attended New York Jets game to minimise press surrounding her private jet usage. Amber Raiken speaks to PR experts about whether the claim is true, and what these theories say about Swift’s place in the media",
+        "image": "https://static.independent.co.uk/2023/10/10/19/newFile-1.jpg?width=1200&auto=webp",
+        "language": "en",
+        "published_at": "2023-10-12T18:07:53Z",
+        "source": "Independent",
+        "title": "Was Taylor Swift at Travis Kelce’s game a PR move?",
+        "url": "https://www.independent.co.uk/life-style/taylor-swift-travis-kelce-pr-relationship-b2427470.html"
+      },
+      {
+        "author": "Inês Pereira",
+        "category": "general",
+        "country": "gb",
+        "description": "Antony Blinken said he was “overwhelmed” after Israeli officials showed him new photos of people killed in Israel by Hamas.",
+        "image": "https://static.independent.co.uk/2023/10/12/17/Israel_Palestinians_US_41794.jpg?width=1200&auto=webp",
+        "language": "en",
+        "published_at": "2023-10-12T18:07:46Z",
+        "source": "Independent",
+        "title": "Secretary of State Blinken ‘overwhelmed’ as Israeli officials release new photos of Hamas atrocities",
+        "url": "https://www.independent.co.uk/tv/news/blinken-israel-hamas-photos-us-b2428822.html"
+      },
+      {
+        "author": "Amber Raiken",
+        "category": "general",
+        "country": "gb",
+        "description": "A viral conspiracy theory claims Taylor Swift attended New York Jets game to minimise press surrounding her private jet usage. Amber Raiken speaks to PR experts about whether the claim is true, and what these theories say about Swift’s place in the media",
+        "image": "https://static.independent.co.uk/2023/10/10/19/newFile-1.jpg?width=1200&auto=webp",
+        "language": "en",
+        "published_at": "2023-10-12T18:07:26Z",
+        "source": "Independent",
+        "title": "Was Taylor Swift at Travis Kelce’s game a PR move?",
+        "url": "https://www.independent.co.uk/life-style/taylor-swift-travis-kelce-relationship-b2428832.html"
+      },
+      {
+        "author": "John Bowden",
+        "category": "general",
+        "country": "gb",
+        "description": "Increasingly desperate GOP candidates turn to bashing Biden in hopes of harnessing the GOP electorate’s anger, writes John Bowden",
+        "image": "https://static.independent.co.uk/2023/10/09/22/Israel_Palestinians_Daily_Photo_Gallery_19636.jpg?width=1200&auto=webp",
+        "language": "en",
+        "published_at": "2023-10-12T18:01:33Z",
+        "source": "Independent",
+        "title": "Is Biden’s $6bn Iran deal really behind Hamas attacks – or is GOP exploiting tragedy for partisan purposes?",
+        "url": "https://www.the-independent.com/news/world/americas/us-politics/biden-iran-israel-hamas-republicans-b2426833.html"
+      },
+      {
+        "author": "reporters@dailyrecord.co.uk (Ryan Carroll)",
+        "category": "general",
+        "country": "gb",
+        "description": "Gary Shearer travelled to the Spanish island on his own to celebrate St Patrick's Day before he disappeared on March 17.",
+        "image": "https://i2-prod.dailyrecord.co.uk/incoming/article30270416.ece/ALTERNATES/s98/3_CapturePNG.png",
+        "language": "en",
+        "published_at": "2023-10-12T17:57:45Z",
+        "source": "Daily Record",
+        "title": "Sister of Celtic fan missing in Lanzarote says life is 'empty' as search enters seventh month",
+        "url": "https://www.dailyrecord.co.uk/news/scottish-news/sister-celtic-fan-missing-lanzarote-31175572"
+      },
+      {
+        "author": "Tina Campbell",
+        "category": "general",
+        "country": "gb",
+        "description": "",
+        "image": "https://static.standard.co.uk/2023/10/12/18/Justin%20Bieber%20%281%29.jpg?width=1200&auto=webp",
+        "language": "en",
+        "published_at": "2023-10-12T17:56:23Z",
+        "source": "London Evening Standard",
+        "title": "Justin Bieber shares and deletes post supporting Israel showing picture of Gaza destruction",
+        "url": "https://www.standard.co.uk/showbiz/justin-bieber-shares-deletes-social-media-post-supporting-israel-gaza-error-jamie-lee-curtis-b1113227.html"
+      },
+      {
+        "author": "Jon Stone",
+        "category": "general",
+        "country": "gb",
+        "description": "Surveillance aircraft and auxiliary vessels sent to region as Royal Marines and helicopters put on standby",
+        "image": "https://static.independent.co.uk/2023/10/09/19/199172e7b9df02b2176187d049417e65Y29udGVudHNlYXJjaGFwaSwxNjk2OTUxODg4-2.74089234.jpg?width=1200&auto=webp",
+        "language": "en",
+        "published_at": "2023-10-12T17:52:07Z",
+        "source": "Independent",
+        "title": "Britain deploys Royal Navy and RAF to support Israel and ‘ensure regional stability’",
+        "url": "https://www.independent.co.uk/news/uk/politics/israel-gaza-uk-britain-rishi-sunak-royal-navy-raf-forces-b2428820.html"
+      },
+      {
+        "author": null,
+        "category": "general",
+        "country": "gb",
+        "description": "Hand faced an unbearable two-day wait for news about his daughter Emily after Palestinian terrorists stormed their kibbutz at around 7am on Saturday, massacring at least 100 people.",
+        "image": "https://i.dailymail.co.uk/1s/2023/10/12/06/76460461-0-image-a-27_1697090353460.jpg",
+        "language": "en",
+        "published_at": "2023-10-12T17:45:43Z",
+        "source": "Mail",
+        "title": "Revealed: Father who tearfully told how he WELCOMED news his daughter, 8, was killed by Hamas because it meant she wasn't a hostage had already lost his wife to cancer - as video shows terrifying moment terrorists launched attack on their kibbutz",
+        "url": "https://www.dailymail.co.uk/news/article-12624339/Father-tearfully-told-WELCOMED-news-daughter-8-killed-Hamas-meant-wasnt-hostage-lost-wife-cancer-video-shows-terrifying-moment-terrorists-launched-attack-kibbutz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+      },
+      {
+        "author": "Maryam Zakir-Hussain",
+        "category": "general",
+        "country": "gb",
+        "description": "Wet and windy weather marks the end of summery October as yellow weather warning issued",
+        "image": "https://static.independent.co.uk/2023/10/12/17/iStock-1198201069.jpg?width=1200&auto=webp",
+        "language": "en",
+        "published_at": "2023-10-12T17:45:37Z",
+        "source": "Independent",
+        "title": "UK weather: Torrential downpours as heavy rain warning issued by Met Office",
+        "url": "https://www.independent.co.uk/weather/weather-rain-forecast-uk-met-office-b2428781.html"
+      },
+      {
+        "author": "newsdesk@men-news.co.uk (Jada Jones)",
+        "category": "general",
+        "country": "gb",
+        "description": "\"I tried this to help with ageing skin that needed hydrating. This felt amazing on, went on easy and left no residue. My skin felt nourished and firmer especially around the eye area. A great cream that does what it says.\"",
+        "image": "https://i2-prod.manchestereveningnews.co.uk/incoming/article27897985.ece/ALTERNATES/s98/0_jfjfgPNG.png",
+        "language": "en",
+        "published_at": "2023-10-12T17:43:00Z",
+        "source": "Manchester Evening News",
+        "title": "Boots fans hail 'firming' five-star rated anti-ageing cream that 'visibly lifts sagging skin around the eyes'",
+        "url": "https://www.manchestereveningnews.co.uk/news/fashion-news/boots-anti-wrinkle-sagging-eyes-27896046"
+      },
+      {
+        "author": null,
+        "category": "general",
+        "country": "gb",
+        "description": "The IDF dropped leaflets over Beit Lahia calling on people to leave their homes and go to shelters. Officials report that 1,354 people have been killed in Gaza since Saturday.",
+        "image": "https://i.dailymail.co.uk/1s/2023/10/12/18/76480965-0-And_in_a_sign_that_Israel_has_no_notion_of_stopping_its_airstrik-a-6_1697131786903.jpg",
+        "language": "en",
+        "published_at": "2023-10-12T17:41:53Z",
+        "source": "Mail",
+        "title": "IDF troops drop leaflets telling Palestinians to 'leave their homes' or risk death as more than 6,000 bombs dropped on Gaza since Hamas attacks",
+        "url": "https://www.dailymail.co.uk/news/article-12624307/IDF-troops-drop-leaflets-telling-Palestinians-leave-homes-risk-death-6-000-bombs-dropped-Gaza-Hamas-attacks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+      },
+      {
+        "author": null,
+        "category": "general",
+        "country": "gb",
+        "description": "The chairman of a mosque has slammed the decision by Bristol City Hall to light up its building with the colours of the Israeli flag.",
+        "image": "https://i.dailymail.co.uk/1s/2023/10/12/18/76486093-0-image-m-8_1697131669761.jpg",
+        "language": "en",
+        "published_at": "2023-10-12T17:38:50Z",
+        "source": "Mail",
+        "title": "Bristol mosque leader criticises mayor's decision to light up City Hall in blue and white colours of Israeli flag in solidarity with victims of Hamas",
+        "url": "https://www.dailymail.co.uk/news/article-12623863/bristol-israel-flag-mosque-marvin-rees-abdul-malik.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+      },
+      {
+        "author": "Natalie Chinn",
+        "category": "general",
+        "country": "gb",
+        "description": "The American death toll has risen to 27 people in Israel-Palestine war, according to National Security Council Coordinator for Strategic Communications John Kirby.",
+        "image": "https://static.independent.co.uk/2023/10/12/18/231012%20americans%20killed%2027.00_00_13_09.Still005.jpg?width=1200&auto=webp",
+        "language": "en",
+        "published_at": "2023-10-12T17:36:40Z",
+        "source": "Independent",
+        "title": "American death toll rises to 27 people in Israel-Palestine war",
+        "url": "https://www.independent.co.uk/tv/news/israel-palestine-war-27-americans-killed-b2428805.html"
+      },
+      {
+        "author": "Jack Rathborn",
+        "category": "sports",
+        "country": "gb",
+        "description": "The Norwegian also hit out at the Qatar Masters for not taking anti-cheating measures seriously",
+        "image": "https://static.independent.co.uk/2022/09/30/08/GettyImages-1242386573.jpg?width=1200&auto=webp",
+        "language": "en",
+        "published_at": "2023-10-12T17:33:39Z",
+        "source": "The Independent - Sports",
+        "title": "Magnus Carlsen blames chess opponent’s accessory for loss in anti-cheating rant",
+        "url": "https://www.independent.co.uk/sport/chess-magnus-carlsen-cheating-qatar-masters-b2428800.html"
+      },
+      {
+        "author": "Jamie Braidwood",
+        "category": "sports",
+        "country": "gb",
+        "description": "Scotland are unbeaten in qualifying so far and can secure qualification with a victory or draw against Spain",
+        "image": "https://static.independent.co.uk/2023/10/12/18/GettyImages-1731838132.jpg?width=1200&auto=webp",
+        "language": "en",
+        "published_at": "2023-10-12T17:32:19Z",
+        "source": "The Independent - Sports",
+        "title": "Spain vs Scotland LIVE: Euro 2024 team news and line-ups ahead of crunch qualifier",
+        "url": "https://www.independent.co.uk/sport/football/spain-scotland-live-stream-score-result-b2428386.html"
+      },
+      {
+        "author": "Michael Benson",
+        "category": "sports",
+        "country": "gb",
+        "description": "‘Come and stop me’ – John Fury screams vulgar abuse at KSI throughout entire Tommy Fury press conference",
+        "language": "en",
+        "published_at": "2023-10-12T18:00:47Z",
+        "source": "TalkSport",
+        "title": "‘Come and stop me’ – John Fury screams vulgar abuse at KSI throughout entire Tommy Fury press conference",
+        "url": "https://talksport.com/sport/1599504/john-fury-screams-vulgar-abuse-ksi-tommy-fury/"
+      },
+      {
+        "author": null,
+        "category": "general",
+        "country": "gb",
+        "description": "Downing Street says it will be on standby to \"deliver practical support to Israel\".",
+        "language": "en",
+        "published_at": "2023-10-12T17:55:22Z",
+        "source": "BBC News - UK",
+        "title": "UK to deploy Royal Navy ships to support Israel",
+        "url": "https://www.bbc.co.uk/news/uk-67095846?at_medium=RSS&at_campaign=KARANGA"
+      },
+      {
+        "author": "Cameron Temple",
+        "category": "sports",
+        "country": "gb",
+        "description": "Logan Paul tweets to reassure fans Dillon Danis fight is still on despite claims he was cut and bleeding after brawl",
+        "language": "en",
+        "published_at": "2023-10-12T17:54:48Z",
+        "source": "TalkSport",
+        "title": "Logan Paul tweets to reassure fans Dillon Danis fight is still on despite claims he was cut and bleeding after brawl",
+        "url": "https://talksport.com/sport/boxing/1599493/logan-paul-reassure-fans-dillon-danis-fight-cut/"
+      },
+      {
+        "author": "Lee Davey",
+        "category": "sports",
+        "country": "gb",
+        "description": "Liverpool captain Virgil Van Dijk bites back at journalist as he criticised fixture scheduling in England",
+        "language": "en",
+        "published_at": "2023-10-12T17:50:13Z",
+        "source": "TalkSport",
+        "title": "Liverpool captain Virgil Van Dijk bites back at journalist as he criticised fixture scheduling in England",
+        "url": "https://talksport.com/football/1599292/liverpool-virgil-van-dijk-criticism-fixture-schedule/"
+      },
+      {
+        "author": "Callum McAvoy",
+        "category": "general",
+        "country": "gb",
+        "description": "'He has been decisive for the team, and he has lots of personality.'",
+        "language": "en",
+        "published_at": "2023-10-12T17:37:04Z",
+        "source": "Metro",
+        "title": "Arsenal and Manchester City icon defends under-fire Manchester United star Bruno Fernandes",
+        "url": "https://metro.co.uk/2023/10/12/man-utd-arsenal-man-city-icon-defends-under-fire-bruno-fernandes-19655231/"
+      },
+      {
+        "author": "Callum McAvoy",
+        "category": "general",
+        "country": "gb",
+        "description": "'He has been decisive for the team, and he has lots of personality.'",
+        "image": null,
+        "language": "en",
+        "published_at": "2023-10-12T17:37:04Z",
+        "source": "Metro",
+        "title": "Arsenal and Manchester City icon defends under-fire Manchester United star Bruno Fernandes",
+        "url": "https://metro.co.uk/2023/10/12/man-utd-arsenal-man-city-icon-defends-under-fire-bruno-fernandes-19655231/"
+      },
+      {
+        "author": "Ruth Lawes",
+        "category": "general",
+        "country": "gb",
+        "description": "Some housemates are now millionaires.",
+        "image": null,
+        "language": "en",
+        "published_at": "2023-10-12T17:34:46Z",
+        "source": "Metro",
+        "title": "The Big Brother rich list: how former housemates became millionaires",
+        "url": "https://metro.co.uk/2023/10/12/big-brother-housemate-net-worth-alison-hammond-19654575/"
+      },
+      {
+        "author": "Josie Copson",
+        "category": "general",
+        "country": "gb",
+        "description": "Vapers may want to give it a watch.",
+        "image": null,
+        "language": "en",
+        "published_at": "2023-10-12T17:32:22Z",
+        "source": "Metro",
+        "title": "Netflix's 'Big Vape: The Rise and Fall of Juul' has viewers throwing away vapes",
+        "url": "https://metro.co.uk/2023/10/12/netflix-big-vape-the-rise-and-fall-of-juuls-viewers-throwing-away-vapes-19654113/"
+      }
+    ]
+  }
+
+  
+
+    
