@@ -13,19 +13,19 @@ type Article = {
     category: string;
     country: string;
     description: string
-    image: string | null;
-    languages: string;
+    image?: string | null;
+    language: string;
     published_at: string;
-    sources: string
+    source: string
     title: string
     url: string;
 }
 
 type Pagination = {
-    count: Int16Array;
-    linit: Int16Array;
-    offset: Int;
-    total: Int;
+    count: number;
+    limit: number;
+    offset: number;
+    total: number;
 }
 
 type NewsResponse = {
