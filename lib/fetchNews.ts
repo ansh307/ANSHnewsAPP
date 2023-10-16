@@ -73,13 +73,17 @@ const fetchNews = async (
   )
 
   const newResponse = await res.json()
+  
+  // console.log('newResponse:', newResponse);
+
 
   //sort function by images vs not images present
-  // const news = sortNewsByImage(newResponse.data.myQuery)
-  const news = newResponse.data && newResponse.data.myQuery
-  ? sortNewsByImage(newResponse.data.myQuery)
-  : [];
+  const news = sortNewsByImage(newResponse.data.myQuery)
+  // const news = newResponse.data && newResponse.data.myQuery
+  //  sortNewsByImage(newResponse.data.myQuery)
+  // : [];
 
+  // console.log(news)
   // return res
   return news
 
